@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "AutoPauseResumeMining": {
+      "commandName": "Project"
+    }
+  }
+}
